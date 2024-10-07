@@ -4,5 +4,6 @@ nacos/nacos-server
 minio/minio:latest
 snowdreamtech/frpc:latest
 mysql:8.0.35
+ddns-go
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

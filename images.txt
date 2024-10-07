@@ -5,6 +5,7 @@ nginx
 #snowdreamtech/frpc:latest
 #mysql:8.0.35
 #ghcr.io/jeessy2/ddns-go
-redis:latest
+#redis:latest
+nastool/nas-tools:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

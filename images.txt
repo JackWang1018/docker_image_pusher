@@ -6,6 +6,7 @@ nginx
 #mysql:8.0.35
 #ghcr.io/jeessy2/ddns-go
 #redis:latest
-nastool/nas-tools:latest
+#nastool/nas-tools:latest
+diygod/rsshub
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

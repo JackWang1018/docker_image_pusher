@@ -7,7 +7,8 @@ nginx
 #ghcr.io/jeessy2/ddns-go
 #redis:latest
 #nastool/nas-tools:latest
-snowdreamtech/frps:latest
+easychen/cookiecloud
+#snowdreamtech/frps:latest
 #diygod/rsshub
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

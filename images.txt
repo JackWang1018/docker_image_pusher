@@ -1,13 +1,13 @@
 nginx
 #支持私库
-#nacos/nacos-server
+nacos/nacos-server:latest
 #minio/minio:latest
 #snowdreamtech/frpc:latest
 #mysql:8.0.35
 #ghcr.io/jeessy2/ddns-go
 #redis:latest
 #nastool/nas-tools:latest
-easychen/cookiecloud
+#easychen/cookiecloud
 #snowdreamtech/frps:latest
 #diygod/rsshub
 #支持指定架构

@@ -5,7 +5,8 @@ nacos/nacos-server:latest
 #snowdreamtech/frpc:latest
 #mysql:8.0.35
 #ghcr.io/jeessy2/ddns-go
-redis:latest
+#redis:latest
+jc21/nginx-proxy-manager
 #nastool/nas-tools:latest
 #easychen/cookiecloud
 #snowdreamtech/frps:latest

@@ -9,6 +9,7 @@ nacos/nacos-server:latest
 #jc21/nginx-proxy-manager
 openjdk:11-jre-slim
 openjdk:8-jre
+openjdk:8-jdk-alpine
 #nastool/nas-tools:latest
 #easychen/cookiecloud
 #snowdreamtech/frps:latest

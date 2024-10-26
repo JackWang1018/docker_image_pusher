@@ -6,7 +6,8 @@ nacos/nacos-server:latest
 #mysql:8.0.35
 #ghcr.io/jeessy2/ddns-go
 #redis:latest
-jc21/nginx-proxy-manager
+#jc21/nginx-proxy-manager
+openjdk:11-jre-slim
 #nastool/nas-tools:latest
 #easychen/cookiecloud
 #snowdreamtech/frps:latest

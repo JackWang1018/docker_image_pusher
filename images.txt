@@ -1,6 +1,6 @@
-nginx
+#nginx
 #支持私库
-nacos/nacos-server:latest
+#nacos/nacos-server:latest
 #minio/minio:latest
 #snowdreamtech/frpc:latest
 #mysql:8.0.35
@@ -8,8 +8,9 @@ nacos/nacos-server:latest
 #redis:latest
 #jc21/nginx-proxy-manager
 #openjdk:11-jre-slim
-influxdb
+#influxdb
 #openjdk:8-jre
+nastool/nas-tools
 #openjdk:8-jdk-alpine
 #nastool/nas-tools:latest
 #easychen/cookiecloud
